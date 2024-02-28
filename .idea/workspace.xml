@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91fc9c24-3bc8-40f8-a79d-025aff83160c" name="Changes" comment="Added migrations">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cftshleweF0OzcoEC1elP4SpSW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vladkleshko/PycharmProjects/social_media_api&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="social_media_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91fc9c24-3bc8-40f8-a79d-025aff83160c" name="Changes" comment="" />
+      <created>1708514668905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708514668905</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created requirements.txt">
+      <created>1708516433088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708516433088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created .gitignore">
+      <created>1708517661492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708517661492</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added media file serving">
+      <created>1708518213405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708518213405</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Included user &amp; social_media apps url">
+      <created>1708518810427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708518810427</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created User &amp; UserProfile models">
+      <created>1708521567524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708521567525</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed project urls">
+      <created>1708521588459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708521588459</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created admin panel for user app">
+      <created>1708521637480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708521637480</updated>
+    </task>
+    <task id="LOCAL-00008" summary="installed DRF">
+      <created>1708521650376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708521650377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added __str__ method for UserProfile model">
+      <created>1708521910511</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708521910511</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create UserSerializer serializer">
+      <created>1708522761762</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708522761763</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create UserCreateView view">
+      <created>1708523124838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708523124838</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create 'register/' url">
+      <created>1708523149989</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708523149990</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create UserTokenSerializer serializer">
+      <created>1708531400796</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708531400796</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Included 'rest_framework.authtoken' in requirements">
+      <created>1708531612274</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708531612274</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Created CreateTokenView view">
+      <created>1708531630721</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708531630721</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Created 'login/' url">
+      <created>1708531652776</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708531652776</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added filtering posts by content &amp; owner_email">
+      <created>1709031713061</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709031713061</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Created custom permission IsOwnerOrReadOnly">
+      <created>1709033634216</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709033634216</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added appropriate permission_class for views">
+      <created>1709033715547</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709033715547</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Soluted N + 1 query problem">
+      <created>1709043603461</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709043603461</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Documented project">
+      <created>1709117726129</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709117726130</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Used environment variable SECRET_KEY">
+      <created>1709147776158</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709147776159</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Wrote README.md file">
+      <created>1709147936573</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709147936573</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added migrations">
+      <created>1709148411997</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709148411998</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created requirements.txt" />
+    <MESSAGE value="Created .gitignore" />
+    <MESSAGE value="Added media file serving" />
+    <MESSAGE value="Included user &amp; social_media apps url" />
+    <MESSAGE value="Created User &amp; UserProfile models" />
+    <MESSAGE value="Fixed project urls" />
+    <MESSAGE value="Created admin panel for user app" />
+    <MESSAGE value="installed DRF" />
+    <MESSAGE value="Added __str__ method for UserProfile model" />
+    <MESSAGE value="Create UserSerializer serializer" />
+    <MESSAGE value="Create UserCreateView view" />
+    <MESSAGE value="Create 'register/' url" />
+    <MESSAGE value="Create UserTokenSerializer serializer" />
+    <MESSAGE value="Included 'rest_framework.authtoken' in requirements" />
+    <MESSAGE value="Created CreateTokenView view" />
+    <MESSAGE value="Created 'login/' url" />
+    <MESSAGE value="Added filtering posts by content &amp; owner_email" />
+    <MESSAGE value="Created custom permission IsOwnerOrReadOnly" />
+    <MESSAGE value="Added appropriate permission_class for views" />
+    <MESSAGE value="Soluted N + 1 query problem" />
+    <MESSAGE value="Documented project" />
+    <MESSAGE value="Used environment variable SECRET_KEY" />
+    <MESSAGE value="Wrote README.md file" />
+    <MESSAGE value="Added migrations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added migrations" />
+  </component>
+</project>
